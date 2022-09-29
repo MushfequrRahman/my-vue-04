@@ -1,7 +1,7 @@
 <style>
 .fakeimg {
   height: 200px;
-  background: #aaaa;
+  background: #aaa;
 }
 </style>
 <template>
