@@ -31,6 +31,11 @@
     <div class="col-md-4">11111</div>
     <div class="col-md-4">11111</div>
   </div>
+  <div class="row">
+    <div class="col-md-4">22222</div>
+    <div class="col-md-4">22222</div>
+    <div class="col-md-4">22222</div>
+  </div>
   <div class="p-5 bg-primary text-white text-center">
     <h1>Vue Page</h1>
     <p>Resize this responsive page to see the effect!</p>
